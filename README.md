@@ -6,13 +6,13 @@ This repository contains a collection of **Vanilla JavaScript** projects built f
 
 ## Live Demos
 
-- 🔢 C:\Users\Admin\OneDrive\Documents\LearningJS\Projects\1 Calculator\1 calculator.html
-- ✅ C:\Users\Admin\OneDrive\Documents\LearningJS\Projects\3 Todo App\todo.css
-- 🏏 C:\Users\Admin\OneDrive\Documents\LearningJS\Projects\2 Cricket Game\cricket.html
+- C:\Users\Admin\OneDrive\Documents\LearningJS\Projects\1 Calculator\1 calculator.html
+- C:\Users\Admin\OneDrive\Documents\LearningJS\Projects\3 Todo App\todo.css
+- C:\Users\Admin\OneDrive\Documents\LearningJS\Projects\2 Cricket Game\cricket.html
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 js-mini-projects/<br>
 │<br>
