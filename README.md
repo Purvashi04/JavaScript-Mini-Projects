@@ -15,22 +15,22 @@ This repository contains a collection of **Vanilla JavaScript** projects built f
 ## 📁 Project Structure
 
 js-mini-projects/<br>
-│
+│<br>
 ├── calculator/<br>
 │ ├── index.html<br>
 │ ├── style.css<br>
 │ └── script.js<br>
-│
+│<br>
 ├── todo-app/<br>
 │ ├── index.html<br>
 │ ├── style.css<br>
 │ └── script.js<br>
-│
+│<br>
 ├── cricket-game/<br>
 │ ├── index.html<br>
 │ ├── style.css<br>
 │ └── script.js<br>
-│
+│<br>
 └── README.md<br>
 
 ---
