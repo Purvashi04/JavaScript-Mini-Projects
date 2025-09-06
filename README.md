@@ -14,28 +14,24 @@ This repository contains a collection of **Vanilla JavaScript** projects built f
 
 ## 📁 Project Structure
 
-js-mini-projects/
+js-mini-projects/<br>
 │
-├── calculator/
-│ ├── index.html
-│ ├── style.css
-│ └── script.js
+├── calculator/<br>
+│ ├── index.html<br>
+│ ├── style.css<br>
+│ └── script.js<br>
 │
-├── todo-app/
-│ ├── index.html
-│ ├── style.css
-│ └── script.js
+├── todo-app/<br>
+│ ├── index.html<br>
+│ ├── style.css<br>
+│ └── script.js<br>
 │
-├── cricket-game/
-│ ├── index.html
-│ ├── style.css
-│ └── script.js
+├── cricket-game/<br>
+│ ├── index.html<br>
+│ ├── style.css<br>
+│ └── script.js<br>
 │
-└── README.md
-
-yaml
-Copy
-Edit
+└── README.md<br>
 
 ---
 
